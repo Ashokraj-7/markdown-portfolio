@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+🌴 Tree
+🐮 Cow
+
+1. Hi
+2. Hello
+
+* Vanakam
+* hey
